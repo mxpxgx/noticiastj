@@ -1,0 +1,6 @@
+sql/
+deploy.php
+application/config/config.php
+application/config/database.php
+user_guide/
+system/
